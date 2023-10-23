@@ -1,0 +1,39 @@
+#container{
+    margin: auto;
+    width: 1200px;
+    background: red;
+}
+#container header{
+    height: 60px;
+    /* text-align: left; */
+    background: gray;
+    font-size: large;
+}
+#container nav{
+    height: 45px;
+    background: #1e7e34;
+}
+
+#container #content{
+    background: #eedc74;
+    height: 250px;
+    overflow: auto;
+}
+#container #content #left{
+    width: 150px;
+    height:250px ;
+    float: left;
+    background: yellow;
+}
+#container #content #right{
+    width: 1050px;
+    height:250px ;
+    float: right;
+    background: rgb(247, 244, 244);
+}
+
+#container footer{
+    height: 40px;
+    text-align: center;
+    background: rgb(145, 145, 145);
+}

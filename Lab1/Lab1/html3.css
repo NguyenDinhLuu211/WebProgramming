@@ -1,0 +1,47 @@
+#container{
+    margin: auto;
+    width: 900px;
+    background: white;
+}
+#container header{
+    height: 120px;
+    text-align: center;
+    background:brown;
+ 
+}
+#container nav{
+    height: 400px;
+    background:  rgb(145, 145, 145);
+    text-align: center;
+}
+
+
+#service{
+    margin: 80px;
+}
+#service1{
+    background-color: gray;
+    height: 220px;
+    width: 180px;
+    
+    margin: 30px;
+    float: left;
+    text-align: center;
+    
+}
+
+#container footer{
+    height: 120px;
+    width: 900px;
+    text-align: center;
+    background: rgb(91, 140, 231);
+    float: right;
+    
+}
+
+div.picture1{
+    width: 220px;
+    height: 180px;
+    background-image: url('ip14.png');
+
+ }
